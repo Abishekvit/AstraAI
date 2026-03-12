@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+models/
+dataset/
+vosk-model-small-en-us-0.15/
+llama.cpp/
+
+*.log
+*.npy
+*.yml
+openai_key.txt
